@@ -1,4 +1,4 @@
-
+pod 'Mantle'
 pod 'AFNetworking'
 pod 'SSKeychain'
 pod 'SAMCache'

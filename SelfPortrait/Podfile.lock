@@ -23,6 +23,9 @@ PODS:
   - CMDQueryStringSerialization (0.4.1):
     - ISO8601
   - ISO8601 (0.3.0)
+  - Mantle (2.0.2):
+    - Mantle/extobjc (= 2.0.2)
+  - Mantle/extobjc (2.0.2)
   - ReactiveCocoa (2.5):
     - ReactiveCocoa/UI (= 2.5)
   - ReactiveCocoa/Core (2.5):
@@ -40,6 +43,7 @@ PODS:
 
 DEPENDENCIES:
   - AFNetworking
+  - Mantle
   - SAMCache
   - SimpleAuth/Instagram
   - SSKeychain
@@ -48,6 +52,7 @@ SPEC CHECKSUMS:
   AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
   CMDQueryStringSerialization: 4bb0a2f5e7d8d8678d911d88072274952cbef4e5
   ISO8601: 8d8a22d5edf0554a1cf75bac028c76c1dc0ffaef
+  Mantle: 967fd31ea0220890b2e76589198996b534bb3fb1
   ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
   SAMCache: 418d532c4ecab283e7758576856aeab461a69dde
   SimpleAuth: bc7d594f90711a7e6ef7624dce5aa8c8b09770ab
